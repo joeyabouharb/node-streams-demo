@@ -1,0 +1,23 @@
+{
+  "name": "streams-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyabouharb/node-streams-demo.git"
+  },
+  "author": "joey",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/joeyabouharb/node-streams-demo/issues"
+  },
+  "homepage": "https://github.com/joeyabouharb/node-streams-demo#readme",
+  "dependencies": {
+    "csv": "^5.3.0",
+    "highland": "^3.0.0-beta.10"
+  }
+}
